@@ -33,9 +33,7 @@ public class CameraController : MonoBehaviour {
 		x = angles.y;
 		y = angles.x;
 		 
-//		rigidbody = GetComponent<Rigidbody>();
-		 
-		// Make the rigid body not change rotation
+//		rigidbody = GetComponent<Rigidbody>()
 //		if (rigidbody != null)
 //		{
 //			rigidbody.freezeRotation = true;
